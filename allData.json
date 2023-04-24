@@ -60,7 +60,7 @@
             "subTitle": "3. Choose your photos",
             "linkTitle": "",
             "Link": "",
-            "img_url": "https://www.zdnet.com/a/img/resize/84d6c503322e76cf1adc04a2a27d2f4f8f3bdab5/2023/03/30/09c1c990-a37e-440b-ade7-42d21d60fe68/img-6323-1.jpg?auto=webp&width=540",
+            "img_url": "",
             "text": "Now that your account is set up, you're ready to start posting. Before making a post, you'll need to grant Lemon8 access to your photos. You can give the app access to select images or your entire camera roll.Once you've chosen your pictures or videos for your first post, you can choose a template based on the theme of your content. ",
             "isNative": false
         },
@@ -68,10 +68,19 @@
             "subTitle": "4. Edit your photos and videos",
             "linkTitle": "",
             "Link": "",
-            "img_url": "https://www.zdnet.com/a/img/resize/22b85d75e1e537a1cd38e175b531def0ce49cf49/2023/03/30/27e5d7d4-a12c-4ea1-8aa9-b8c007ae907d/img-6343.png?auto=webp&width=540",
+            "img_url": "https://www.zdnet.com/a/img/resize/48aebfc61a3a544b1706df72a73e63d7337da28f/2023/03/30/ba72b5e7-917b-4fdf-ab73-0a27101ea3b6/img-6335.jpg?auto=webp&width=540",
             "text": "Luckily, you don't need a separate photo editing app when using Lemon8. The app has many templates, filters, fonts, and stickers to make your photos fit a certain vibe or aesthetic. Also: How to use PhotoShop: 5 basic steps to edit a photo You can take very simplistic photos and turn them into artsy social media posts with the editing tools on Lemon8. ",
             "isNative": false
+        },
+        {
+            "subTitle": "5. Create a caption",
+            "linkTitle": "",
+            "Link": "",
+            "img_url": "https://www.zdnet.com/a/img/resize/22b85d75e1e537a1cd38e175b531def0ce49cf49/2023/03/30/27e5d7d4-a12c-4ea1-8aa9-b8c007ae907d/img-6343.png?auto=webp&width=540",
+            "text": "Lemon8 posts don't have to have a caption, but it's recommended to write one to make your posts more visible. There are two parts to a Lemon8 caption: A headline and the body text. You can use the templates if you need help coming up with a caption, and the templates relate to trending topics like beauty, food, and travel. You can also add hashtags at the end of your caption to increase your post's visibility, as people browsing a hashtag may find your post.  Also: How can I easily tell if someone's following me on Instagram? Then, you can press 'Done' and wait for your post to upload.",
+            "isNative": false
         }
+
       ],
       "data_model": []
     },
@@ -102,6 +111,30 @@
           "Link": "",
           "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
           "text": "Almost everyone notices the benefit of using a virtual assistant. In recent years, they have become increasingly popular and can be used to provide answers to just any question you have.",
+          "isNative": false
+        },
+        {
+          "subTitle": "How can I make my posts popular?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "The mechanics behind Lemon8's algorithm are not totally clear. But The New York Times reported that ByteDance deploys the same algorithm on Lemon8 as it does on TikTok. This means that interacting with Lemon8's For You page, liking posts you like, and ignoring posts you don't will help train your account's algorithm.  Lemon8 provided budding creators with a list of Do's and Don'ts to help them get started. Lemon8 suggests you create collage-style posts with aesthetic fonts and design elements. They say you shouldn't create generic-looking posts resembling ads or include extended captions that look like essays.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Does Lemon8 collect or share my data?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Like most social media apps, yes, Lemon8 does collect and share your data. Lemon8 collects the profile information you provided to sign up for the app (phone number, username, email address, and gender). The app collects the data you leave in a trail when you interact with posts on the app to curate your algorithm. Lemon8 uses some of your information to target you with specific ads like most social sites do. Lemon8's privacy policy says U.S. user data may be stored in servers outside the country. The policy also states Lemon8 may share information with other members or affiliates of ByteDance, a possible link for the company to stream personal advertising across your TikTok and Lemon8 accounts.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Lemon8 vs. Instagram: Which one is better?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Lemon8's For You page is very similar to Instagram's Explore page. Lemon8's focus on photo-sharing, brand advertising, and selling an aesthetic closely resembles Instagram's interface and its influencers' posting habits. However, a significant difference between Lemon8 and Instagram is that Lemon8 doesn't have a verification system yet. Lemon8 is prepping for an official launch in May, when it can be assumed that more prominent names in the social media industry will debut on the app, creating a need for verifying users. The most significant difference between Lemon8 and Instagram is that Lemon8 is just new and fresh for social media users. Many of us have been on Instagram as early as 2010, and it's worn a lot of new faces, each failing to dazzle existing users. TikTok created a new generation of social media celebrities, and maybe Lemon8 will do the same thing. Do you plan to start a Lemon8 profile? Let us know in the comments.",
           "isNative": false
         }
       ],
