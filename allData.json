@@ -219,6 +219,86 @@
         }
       ],
       "data_model": []
+    },
+    {
+      "type": "guide",
+      "title": "Lemon8 101 | Guide to Caption Writing ✏️",
+      "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/f4682d0c658b44c6b8e2e97f33123a25~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=oQpg2BN3IfUJrsbxd%2FcjNNmWFBQ%3D",
+      "guide_model": [
+        {
+          "subTitle": "Lemon8 101 | Guide to Caption Writing ✏️",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/f4682d0c658b44c6b8e2e97f33123a25~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=oQpg2BN3IfUJrsbxd%2FcjNNmWFBQ%3D",
+          "text": "Struggling to write your caption and hit the minimum 150 word count? Let us help you out 📝 We’ll walk you through the 7 key parts of what makes a GREAT caption on Lemon8 and some handy in-app tools to get started:",
+          "isNative": false
+        },
+        {
+          "subTitle": "1️⃣ Post Title",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/a5f446e7b893472d8781c9ef2a782496~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=uUpK3s4RUOfjevehtHJn7cdJgKw%3D",
+          "text": "This is the first thing that’ll let your readers decide if they want to tap on your post to read more. Make it exciting and personalised - no one likes a boring title 🤨",
+          "isNative": false
+        },
+        {
+          "subTitle": "2️⃣ Hook/Content",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/b916acfc88224c0186154255d6c9a81a~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=JfiwBTiDgNqQBnsCu2GJw48sSWc%3D",
+          "text": "Give a short introduction to what your post is about and make it personalised - perhaps why you’re even trying out this activity or product in the first place! 💭",
+          "isNative": false
+        },
+        {
+          "subTitle": "3️⃣ Basic Information",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Include overview of key information in bullet point - everything someone needs to know if they’re gonna try out your recommendation (tip: use emojis 💛) ",
+          "isNative": false
+        },
+        {
+          "subTitle": "4️⃣ The Experience",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Share the whole experience - tell us what it was like from the ambience to the accessibility! 🚕🚌",
+          "isNative": false
+        },
+        {
+          "subTitle": "5️⃣ Recommendation",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Get your reader to engage with your post - ask them to Like, Comment & Save your post if they found it helpful! 👍🏻",
+          "isNative": false
+        },
+        {
+          "subTitle": "6️⃣ Call To Action",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Include overview of key information in bullet point - everything someone needs to know if they’re gonna try out your recommendation (tip: use emojis 💛) ",
+          "isNative": false
+        },
+        {
+          "subTitle": "7️⃣ Hashtags",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Increase your exposure by adding relevant hashtags! ",
+          "isNative": false
+        },
+        {
+          "subTitle": "6️⃣ Call To Action",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Include overview of key information in bullet point - everything someone needs to know if they’re gonna try out your recommendation (tip: use emojis 💛) ",
+          "isNative": false
+        }
+      ],
+      "data_model": []
     }
   ]
 }
