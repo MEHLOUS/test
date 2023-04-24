@@ -1,405 +1,159 @@
 {
-    "config": {
-      "currentAppVersion": "1.0.0",
-      "forceUpdate": true,
-      "title": "Update available",
-      "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
-      "updateLink": "https://play.google.com/store/apps/details?id=com.demo.guide"
+  "config": {
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": true,
+    "title": "Update available",
+    "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.demo.guide"
+  },
+  "ads": {
+    "adNetwork": "admob",
+    "frequency": 2,
+    "ids": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "reward": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "appOpen": "ca-app-pub-3940256099942544/3419835294"
+    }
+  },
+  "data_model": [
+    {
+      "type": "guide",
+      "title": "The Impact of Technology on Our Lives: A Comprehensive Look",
+      "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
+      "guide_model": [
+        {
+          "subTitle": "The Impact of Technology on Our Lives: A Comprehensive Look",
+          "linkTitle": "Traffic link",
+          "Link": "https://5play.ru/en/",
+          "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
+          "text": "Technology has become an integral part of our daily lives and has changed the way we live, work, and communicate. From smartphones and laptops to artificial intelligence and the Internet of Things.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Top 10 Digital Trends in The Global Business Solutions Model",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
+          "text": "From the rise of artificial intelligence (AI) and the internet of things (IoT) to the increasing importance of data privacy and cybersecurity, the trends are transforming the way businesses interact with their customers and operate daily.",
+          "isNative": false
+        },
+        {
+          "subTitle": "What are the Technology Trends in Logistics - 2023?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
+          "text": "This articles is made with purpose of explaining the recent technology developments and implementations happening in logistics.",
+          "isNative": false
+        }
+      ],
+      "data_model": []
     },
-    "ads": {
-      "adNetwork": "admob",
-      "frequency": 2,
-      "ids": {
-        "appId": "ca-app-pub-3940256099942544~3347511713",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "inter": "ca-app-pub-3940256099942544/1033173712",
-        "reward": "ca-app-pub-3940256099942544/5224354917",
-        "native": "ca-app-pub-3940256099942544/2247696110",
-        "appOpen": "ca-app-pub-3940256099942544/3419835294"
-      }
+    {
+      "type": "guide",
+      "title": "What Is App Attestation And Process Of Attesting Android and IOS Apps?",
+      "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
+      "guide_model": [
+        {
+          "subTitle": "What Is App Attestation And Process Of Attesting Android and IOS Apps?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
+          "text": "Attestation is a process of verifying the app's quality and integrity. It is also an assurance to the user that the app they are about to download is safe, virus free and not fake.",
+          "isNative": false
+        },
+        {
+          "subTitle": "How industrial heat exchangers work",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
+          "text": "This article gives you information about Different types of heat exchangers and how industrial heat exchangers work",
+          "isNative": false
+        },
+        {
+          "subTitle": "Can Your Virtual Assistant Be Hacked?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
+          "text": "Almost everyone notices the benefit of using a virtual assistant. In recent years, they have become increasingly popular and can be used to provide answers to just any question you have.",
+          "isNative": false
+        }
+      ],
+      "data_model": []
     },
-    "data_model": [
-      {
-        "type": "guide",
-        "title": "Anouar",
-        "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-        "data_model": [
-          {
-            "type": "guide",
-            "title": "The Impact of Technology on Our Lives: A Comprehensive Look",
-            "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-            "guide_model": [
-              {
-                "subTitle": "The Impact of Technology on Our Lives: A Comprehensive Look",
-                "linkTitle": "Traffic link 1",
-                "Link": "https://amegodev.github.io/",
-                "in_app_webview": false,
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "Technology has become an integral part of our daily lives and has changed the way we live, work, and communicate. From smartphones and laptops to artificial intelligence and the Internet of Things.",
-                "isNative": true
-              },
-              {
-                "subTitle": "Top 10 Digital Trends in The Global Business Solutions Model",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "From the rise of artificial intelligence (AI) and the internet of things (IoT) to the increasing importance of data privacy and cybersecurity, the trends are transforming the way businesses interact with their customers and operate daily.",
-                "isNative": true
-              },
-              {
-                "subTitle": "What are the Technology Trends in Logistics - 2023?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "This articles is made with purpose of explaining the recent technology developments and implementations happening in logistics.",
-                "isNative": false
-              },
-              {
-                "subTitle": "What Is App Attestation And Process Of Attesting Android and IOS Apps?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "Attestation is a process of verifying the app's quality and integrity. It is also an assurance to the user that the app they are about to download is safe, virus free and not fake.",
-                "isNative": false
-              },
-              {
-                "subTitle": "How industrial heat exchangers work",
-                "linkTitle": "Another link",
-                "Link": "https://123apps.com/",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "This article gives you information about Different types of heat exchangers and how industrial heat exchangers work",
-                "isNative": false
-              },
-              {
-                "subTitle": "Can Your Virtual Assistant Be Hacked?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "Almost everyone notices the benefit of using a virtual assistant. In recent years, they have become increasingly popular and can be used to provide answers to just any question you have.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Can Your Virtual Assistant Be Hacked?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-                "text": "Almost everyone notices the benefit of using a virtual assistant. In recent years, they have become increasingly popular and can be used to provide answers to just any question you have.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Here Are The Benefits of Business Fibre Enterprise Ethernet For Business Owners",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-                "text": "For a business to function, having a dependable and quick internet connection is essential. Most likely, you've heard the term \"enterprise ethernet\" used in connection with this but are unaware of what it means.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Benefits of Online Backup",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "Learn how it is easy to avoid data loss and how an online or cloud backup solution can help protect business data.",
-                "isNative": false
-              },
-              {
-                "subTitle": "What are the Benefit Features of Imginn?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-                "text": "This article gives you information about how People Use Imginn for Watch Instagram Stories and Photos.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Invisible Watermark And How Can It Help To Protect Your Digital Assets",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "This article gives you information about Invisible Watermark And How Can It Help you To Protect Your Digital Assets",
-                "isNative": false
-              },
-              {
-                "subTitle": "What Is Speech Transcription? Where Is It Being Used?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-                "text": "In order to inform, influence, or entertain an audience, individuals and public figures adopt the art of public speaking. Public speaking is the process of delivering a speech or presentation in front of a live crowd in a concise way.",
-                "isNative": false
-              },
-              {
-                "subTitle": "How I Passed the microsoft AZ-900 Azure Fundamentals exam",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "information and tips on how to start learning for a microsoft azure certification exam on your own and get starting working in the IT industry.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Do you need a managed IT service provider?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-                "text": "We don’t need to tell you how important IT support is to your company, but it can be difficult to decide the exact IT support service that works best for your needs. Companies come up against a range of operational challenges when it comes to IT; hardware, software, support, expertise, connectivity, the list goes on! But the biggest question to answer is; how do I streamline my IT infrastructure?",
-                "isNative": false
-              }
-            ],
-            "data_model": []
-          }
-        ]
-      },
-      {
-        "type": "guide",
-        "title": "Steps",
-        "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-        "data_model": [
-          {
-            "type": "guide",
-            "title": "The Impact of Technology on Our Lives: A Comprehensive Look",
-            "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-            "guide_model": [
-              {
-                "subTitle": "The Impact of Technology on Our Lives: A Comprehensive Look",
-                "linkTitle": "Traffic link",
-                "Link": "https://5play.ru/en/",
-                "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-                "text": "Technology has become an integral part of our daily lives and has changed the way we live, work, and communicate. From smartphones and laptops to artificial intelligence and the Internet of Things.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Top 10 Digital Trends in The Global Business Solutions Model",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-                "text": "From the rise of artificial intelligence (AI) and the internet of things (IoT) to the increasing importance of data privacy and cybersecurity, the trends are transforming the way businesses interact with their customers and operate daily.",
-                "isNative": false
-              },
-              {
-                "subTitle": "What are the Technology Trends in Logistics - 2023?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
-                "text": "This articles is made with purpose of explaining the recent technology developments and implementations happening in logistics.",
-                "isNative": false
-              }
-            ],
-            "data_model": []
-          },
-          {
-            "type": "guide",
-            "title": "What Is App Attestation And Process Of Attesting Android and IOS Apps?",
-            "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-            "guide_model": [
-              {
-                "subTitle": "What Is App Attestation And Process Of Attesting Android and IOS Apps?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-                "text": "Attestation is a process of verifying the app's quality and integrity. It is also an assurance to the user that the app they are about to download is safe, virus free and not fake.",
-                "isNative": false
-              },
-              {
-                "subTitle": "How industrial heat exchangers work",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "This article gives you information about Different types of heat exchangers and how industrial heat exchangers work",
-                "isNative": false
-              },
-              {
-                "subTitle": "Can Your Virtual Assistant Be Hacked?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
-                "text": "Almost everyone notices the benefit of using a virtual assistant. In recent years, they have become increasingly popular and can be used to provide answers to just any question you have.",
-                "isNative": false
-              }
-            ],
-            "data_model": []
-          },
-          {
-            "type": "guide",
-            "title": "Can Your Virtual Assistant Be Hacked?",
-            "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-            "guide_model": [
-              {
-                "subTitle": "Can Your Virtual Assistant Be Hacked?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "Almost everyone notices the benefit of using a virtual assistant. In recent years, they have become increasingly popular and can be used to provide answers to just any question you have.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Here Are The Benefits of Business Fibre Enterprise Ethernet For Business Owners",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "For a business to function, having a dependable and quick internet connection is essential. Most likely, you've heard the term \"enterprise ethernet\" used in connection with this but are unaware of what it means.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Benefits of Online Backup",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
-                "text": "Learn how it is easy to avoid data loss and how an online or cloud backup solution can help protect business data.",
-                "isNative": false
-              },
-              {
-                "subTitle": "What are the Benefit Features of Imginn?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "This article gives you information about how People Use Imginn for Watch Instagram Stories and Photos.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Invisible Watermark And How Can It Help To Protect Your Digital Assets",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "This article gives you information about Invisible Watermark And How Can It Help you To Protect Your Digital Assets",
-                "isNative": false
-              },
-              {
-                "subTitle": "What Is Speech Transcription? Where Is It Being Used?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "In order to inform, influence, or entertain an audience, individuals and public figures adopt the art of public speaking. Public speaking is the process of delivering a speech or presentation in front of a live crowd in a concise way.",
-                "isNative": false
-              },
-              {
-                "subTitle": "How I Passed the microsoft AZ-900 Azure Fundamentals exam",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
-                "text": "information and tips on how to start learning for a microsoft azure certification exam on your own and get starting working in the IT industry.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Do you need a managed IT service provider?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "We don’t need to tell you how important IT support is to your company, but it can be difficult to decide the exact IT support service that works best for your needs. Companies come up against a range of operational challenges when it comes to IT; hardware, software, support, expertise, connectivity, the list goes on! But the biggest question to answer is; how do I streamline my IT infrastructure?",
-                "isNative": false
-              }
-            ],
-            "data_model": []
-          }
-        ]
-      },
-      {
-        "type": "guide",
-        "title": "Overview",
-        "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
-        "data_model": [
-          {
-            "type": "guide",
-            "title": "What Is App Attestation And Process Of Attesting Android and IOS Apps?",
-            "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
-            "guide_model": [
-              {
-                "subTitle": "What Is App Attestation And Process Of Attesting Android and IOS Apps?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "Attestation is a process of verifying the app's quality and integrity. It is also an assurance to the user that the app they are about to download is safe, virus free and not fake.",
-                "isNative": false
-              },
-              {
-                "subTitle": "How industrial heat exchangers work",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "This article gives you information about Different types of heat exchangers and how industrial heat exchangers work",
-                "isNative": false
-              },
-              {
-                "subTitle": "Can Your Virtual Assistant Be Hacked?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "Almost everyone notices the benefit of using a virtual assistant. In recent years, they have become increasingly popular and can be used to provide answers to just any question you have.",
-                "isNative": false
-              }
-            ],
-            "data_model": []
-          },
-          {
-            "type": "guide",
-            "title": "Can Your Virtual Assistant Be Hacked?",
-            "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-            "guide_model": [
-              {
-                "subTitle": "Can Your Virtual Assistant Be Hacked?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "Almost everyone notices the benefit of using a virtual assistant. In recent years, they have become increasingly popular and can be used to provide answers to just any question you have.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Here Are The Benefits of Business Fibre Enterprise Ethernet For Business Owners",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "For a business to function, having a dependable and quick internet connection is essential. Most likely, you've heard the term \"enterprise ethernet\" used in connection with this but are unaware of what it means.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Benefits of Online Backup",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "Learn how it is easy to avoid data loss and how an online or cloud backup solution can help protect business data.",
-                "isNative": false
-              },
-              {
-                "subTitle": "What are the Benefit Features of Imginn?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "This article gives you information about how People Use Imginn for Watch Instagram Stories and Photos.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Invisible Watermark And How Can It Help To Protect Your Digital Assets",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "This article gives you information about Invisible Watermark And How Can It Help you To Protect Your Digital Assets",
-                "isNative": false
-              },
-              {
-                "subTitle": "What Is Speech Transcription? Where Is It Being Used?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "In order to inform, influence, or entertain an audience, individuals and public figures adopt the art of public speaking. Public speaking is the process of delivering a speech or presentation in front of a live crowd in a concise way.",
-                "isNative": false
-              },
-              {
-                "subTitle": "How I Passed the microsoft AZ-900 Azure Fundamentals exam",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "information and tips on how to start learning for a microsoft azure certification exam on your own and get starting working in the IT industry.",
-                "isNative": false
-              },
-              {
-                "subTitle": "Do you need a managed IT service provider?",
-                "linkTitle": "",
-                "Link": "",
-                "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
-                "text": "We don’t need to tell you how important IT support is to your company, but it can be difficult to decide the exact IT support service that works best for your needs. Companies come up against a range of operational challenges when it comes to IT; hardware, software, support, expertise, connectivity, the list goes on! But the biggest question to answer is; how do I streamline my IT infrastructure?",
-                "isNative": false
-              }
-            ],
-            "data_model": []
-          }
-        ]
-      }
-    ]
-  }
+    {
+      "type": "guide",
+      "title": "Can Your Virtual Assistant Be Hacked?",
+      "img_url": "https://www.mobileapps.com/wp-content/uploads/2020/09/Splash-Screen.gif",
+      "guide_model": [
+        {
+          "subTitle": "Can Your Virtual Assistant Be Hacked?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
+          "text": "Almost everyone notices the benefit of using a virtual assistant. In recent years, they have become increasingly popular and can be used to provide answers to just any question you have.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Here Are The Benefits of Business Fibre Enterprise Ethernet For Business Owners",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
+          "text": "For a business to function, having a dependable and quick internet connection is essential. Most likely, you've heard the term \"enterprise ethernet\" used in connection with this but are unaware of what it means.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Benefits of Online Backup",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
+          "text": "Learn how it is easy to avoid data loss and how an online or cloud backup solution can help protect business data.",
+          "isNative": false
+        },
+        {
+          "subTitle": "What are the Benefit Features of Imginn?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
+          "text": "This article gives you information about how People Use Imginn for Watch Instagram Stories and Photos.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Invisible Watermark And How Can It Help To Protect Your Digital Assets",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
+          "text": "This article gives you information about Invisible Watermark And How Can It Help you To Protect Your Digital Assets",
+          "isNative": false
+        },
+        {
+          "subTitle": "What Is Speech Transcription? Where Is It Being Used?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
+          "text": "In order to inform, influence, or entertain an audience, individuals and public figures adopt the art of public speaking. Public speaking is the process of delivering a speech or presentation in front of a live crowd in a concise way.",
+          "isNative": false
+        },
+        {
+          "subTitle": "How I Passed the microsoft AZ-900 Azure Fundamentals exam",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://www.nexrage.com/static/services-page-graphics_android-app-development-ab36453c0a6b33d8d09570bc6cb94608.png",
+          "text": "information and tips on how to start learning for a microsoft azure certification exam on your own and get starting working in the IT industry.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Do you need a managed IT service provider?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://images.squarespace-cdn.com/content/v1/5c439fd8266c07ff148f5765/1600930300842-MUMZK5UP9B5J2IMPLCKE/Top+20+Social+Media+App+Inspiration+%231+-+2.jpg",
+          "text": "We don’t need to tell you how important IT support is to your company, but it can be difficult to decide the exact IT support service that works best for your needs. Companies come up against a range of operational challenges when it comes to IT; hardware, software, support, expertise, connectivity, the list goes on! But the biggest question to answer is; how do I streamline my IT infrastructure?",
+          "isNative": false
+        }
+      ],
+      "data_model": []
+    }
+  ]
+}
