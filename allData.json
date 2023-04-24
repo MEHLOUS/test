@@ -179,6 +179,46 @@
         }
       ],
       "data_model": []
+    },
+    {
+      "type": "guide",
+      "title": "Lemon101 | Guide to Cover Photo 📔📸",
+      "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/7a79dcf22b0248e78b20aec1a72fe519~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=rOjCJ%2FlFEteF6YwvLdUnFyyxkW4%3D",
+      "guide_model": [
+        {
+          "subTitle": "Lemon101 | Guide to Cover Photo 📔📸",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/7a79dcf22b0248e78b20aec1a72fe519~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=rOjCJ%2FlFEteF6YwvLdUnFyyxkW4%3D",
+          "text": "Creating a scroll-stopping cover photo can be tough - that’s why we’re here to help! ",
+          "isNative": false
+        },
+        {
+          "subTitle": "🎨Pick your aesthetic/design style",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/d08c7630e19c440fa41f20156ca53c11~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=4pEgecr7cfGroe2wyrv8f1oeg6I%3D",
+          "text": "We love it when you express your individuality through your aesthetic style. So pick what resonates best with you - cool & edgy, sweet & chic, cute & whimsical or others?",
+          "isNative": false
+        },
+        {
+          "subTitle": "🖼️ Decide on your photo layout",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/d64af9b9c532410d8b8588476013c6e9~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=67QXNcn%2B17lLRUZBIB463ZAYXGY%3D",
+          "text": "Is it going to be a photo collage or a photo cut out with multiple images? If you’re going for a simple & chic look, a simple 4 picture collage works best or if you’re going for fun & dynamic, create some photo cut outs and overlay them!",
+          "isNative": false
+        },
+        {
+          "subTitle": "📝 Create an intriguing visual text title and description",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/7b3965578cf04bcf89705ae03b01feef~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=3fVnXwzvDJQsgmZa2lSmmVOgcg0%3D",
+          "text": "Add some text on the cover photo to tell us what your post is about! We love an exciting text title that comes with a short and snappy description.",
+          "isNative": false
+        }
+      ],
+      "data_model": []
     }
   ]
 }
